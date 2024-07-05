@@ -25,12 +25,12 @@ Previously, I was a research assistant in [Robotics Innovation Lab (RIL)](https:
 
 I finished my undergraduate studies at Indian Institute of Technology (IIT) Madras in July 2020, majoring in Naval Architecture and Ocean Enginnering with a minor in Robotics. I was advised by [Prof. T. Asokan](https://ed.iitm.ac.in/~asokan/) for my thesis focused on simulating Active multi-robot SLAM in an underwater environemnt using Ant Colony Optimization(ACO).
 
-I enjoy and involve myself in [teaching](/teaching) and [mentoring](/service) students as a part of my research activites.
+<!-- I enjoy and involve myself in [teaching](/teaching) and [mentoring](/teaching) students as a part of my research activites. -->
 
-In my [past time](/life), I enjoy hiking, photography and video editing. I am big geography and history geek.
+<!-- In my [past time](/life), I enjoy hiking, photography and video editing. I am big geography and history geek.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
