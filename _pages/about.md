@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: This website is still under progress. Traces from a template will be present in some cases. 
 
 profile:
   align: right
