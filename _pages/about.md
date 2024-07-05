@@ -23,7 +23,7 @@ I am a PhD student in [Dr. Nikhil Chopra](https://enme.umd.edu/clark/faculty/520
 
 Previously, I was a research assistant in [Robotics Innovation Lab (RIL)](https://cpdm.iisc.ac.in/ril/) at the Indian Institute of Science (IISc), Bangalore working under the guidance of [Prof. Abhra Roy Chowdhury](https://sites.google.com/view/abhraroychowdhury/) on designing and developing a bio-inspired heterogeneous multi-robot system for a manufacturing environment. 
 
-I finished my undergraduate studies at Indian Institute of Technology (IIT) Madras in July 2020, majoring in Naval Architecture and Ocean Enginnering with a minor in Robotics. I was advised by [Prof. T. Asokan](https://ed.iitm.ac.in/~asokan/) for my thesis focused on simulating Active multi-robot SLAM in an underwater environemnt using Ant Colony Optimization(ACO).
+I finished my undergraduate studies at Indian Institute of Technology (IIT) Madras in July 2020, majoring in Naval Architecture and Ocean Enginnering with a minor in Robotics. I was advised by [Prof. T. Asokan](https://ed.iitm.ac.in/~asokan/index.html) for my thesis focused on simulating Active multi-robot SLAM in an underwater environemnt using Ant Colony Optimization(ACO).
 
 I enjoy and involve myself in [teaching](/teaching) and [mentoring](/teaching) students as a part of my research activites.
 
