@@ -92,7 +92,7 @@ work:
     company_name: University of Maryland
     company_url: ''
     company_logo: ''
-    date_start: Fall 2022, Fall 2024
+    date_start: 2022-07-15
     date_end:
     summary: |
       Responsibilities include:
