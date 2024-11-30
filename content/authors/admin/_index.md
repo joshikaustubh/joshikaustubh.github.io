@@ -53,7 +53,7 @@ education:
   - area: PhD Mechanical Engineering
     institution: University of Maryland College Park
     date_start: 2022-01-15
-    date_end: present
+    date_end: ''
     summary: |
       Supervised by [Dr. Nikhil Chopra](https://terpconnect.umd.edu/~nchopra/Home.html). Expected to graduate in 2026.
 
@@ -93,7 +93,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2022-07-15
-    date_end:
+    date_end: ''
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
