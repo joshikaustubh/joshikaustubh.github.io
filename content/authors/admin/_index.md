@@ -181,5 +181,7 @@ awards:
 ## About Me
 
 Hi, I’m Kaustubh Joshi, currently pursuing my PhD in Mechanical Engineering at University of Maryland. My research explores advanced state estimation and decision-making for robots, focusing on combining traditional nonlinear observer techniques with cutting-edge AI methods. I'm passionate about building intelligent systems that operate in challenging environments, with applications ranging from autonomous navigation to immersive technologies like AR/VR.
+
 Beyond research, I enjoy mentoring students, developing creative teaching materials, and sharing my love for robotics. In my downtime, you'll often find me doing some photography, running, cycling, and trekking.
+
 Feel free to explore my work, reach out for collaboration, or just say hello!
