@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tianchen Liu | Kaustubh Joshi</title>
+    <link>http://localhost:1313/author/tianchen-liu/</link>
+      <atom:link href="http://localhost:1313/author/tianchen-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tianchen Liu</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Tianchen Liu</title>
+      <link>http://localhost:1313/author/tianchen-liu/</link>
+    </image>
+    
+    <item>
+      <title>3D Water Quality Mapping using Invariant Extended Kalman Filtering for Underwater Robot Localization</title>
+      <link>http://localhost:1313/publication/joshi-20243-d/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/joshi-20243-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UIVNAV: Underwater Information-driven Vision-based Navigation via Imitation Learning</title>
+      <link>http://localhost:1313/publication/lin-2024-uivnav/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/lin-2024-uivnav/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

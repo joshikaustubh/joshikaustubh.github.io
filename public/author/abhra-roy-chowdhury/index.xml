@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ABHRA ROY CHOWDHURY | Kaustubh Joshi</title>
+    <link>http://localhost:1313/author/abhra-roy-chowdhury/</link>
+      <atom:link href="http://localhost:1313/author/abhra-roy-chowdhury/index.xml" rel="self" type="application/rss+xml" />
+    <description>ABHRA ROY CHOWDHURY</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>ABHRA ROY CHOWDHURY</title>
+      <link>http://localhost:1313/author/abhra-roy-chowdhury/</link>
+    </image>
+    
+    <item>
+      <title>Bio-inspired Vision and Gesture-based Robot-Robot Interaction for Human-Cooperative Package Delivery</title>
+      <link>http://localhost:1313/publication/joshi-2022-bio/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/joshi-2022-bio/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
