@@ -84,21 +84,24 @@ work:
     date_start: 2022-01-15
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Graduate Research Assistant
+      My projects are widely focused on:
+      - Robot Pose Estimation and Control in Low Vibility & GPS-denied environments
+      - Imitation Learning-based Robot Navigation
+      - Autonomous Surface Vessel (ASV) for 3D Mapping & Reconstruction
+  - position: Graduate Teaching Assistant
     company_name: University of Maryland
     company_url: ''
     company_logo: ''
     date_start: 2022-07-15
     date_end: ''
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      I  am TA for ENME480: Introduction to Robotics, which is offered every fall. I have 
+      - Designed and organized lab sections of the first course in the robotics minor at UMD, for introduction to Python, ROS/ROS2, Gazebo and hands-on experiments with UR3e robot arm
+      - Developed a comprehensive ROS & Gazebo tutorial, and curated weekly studio sessions and assignments
+      - Transitioned entire lab course material consisting of ROS packages and instructional material to GitHub and launching a course website soon.
+    button:
+      text: 'View GitHub'
+      url: 'https://github.com/ENME480'
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`

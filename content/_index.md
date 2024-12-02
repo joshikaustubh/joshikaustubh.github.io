@@ -6,9 +6,18 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "6rem"
+  spacing: "2rem"
 
 sections:
+  - block: markdown
+    content:
+      # title: ''
+      # subtitle: ''
+      text:
+        This website is still under construction and is being updated, but feel free to explore
+    design:
+      columns: '1'
+
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
