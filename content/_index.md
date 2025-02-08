@@ -9,14 +9,14 @@ design:
   spacing: "2rem"
 
 sections:
-  - block: markdown
-    content:
-      # title: ''
-      # subtitle: ''
-      text:
-        This website is still under construction and is being updated, but feel free to explore
-    design:
-      columns: '1'
+  # - block: markdown
+  #   content:
+  #     # title: ''
+  #     # subtitle: ''
+  #     text:
+  #       This website is still under construction and is being updated, but feel free to explore
+  #   design:
+  #     columns: '1'
 
   - block: resume-biography-3
     content:
@@ -33,24 +33,38 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
+          filename: blue_background.svg
           filters:
             brightness: 1.0
           size: cover
           position: center
           parallax: false
-#   - block: markdown
-#     content:
-#       title: '📚 My Research'
-#       subtitle: ''
-#       text: |-
-#         Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
 
-#         I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+  - block: markdown
+    content:
+      title: 'Recent News & Updates'
+      # subtitle: ''
+      text:
+        Some recent updates
+
+        - **Jan 12, 2025:-** Selected for the Future Faculty Fellowship at UMD, recognizing academic excellence and potential as an educator and researcher
+
+        - **Oct 18, 2024:-** Our paper _"3D Water Quality Mapping using Invariant Extended Kalman Filtering for Underwater Robot Localization"_ received **Best Paper Award** for Best Control Framework for Autonomous Navigation & Control at IROS 2024 Workshop on Autonomous Robotic Systems in Aquaculture in Abu Dhabi, UAE
+      
+    design:
+      columns: '1'
+  # - block: markdown
+  #   content:
+  #     title: '📚 My Research'
+  #     subtitle: ''
+  #     text: |-
+  #       Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+
+  #       I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
         
-#         Please reach out to collaborate 😃
-#     design:
-#       columns: '1'
+  #       Please reach out to collaborate 😃
+  #   design:
+  #     columns: '1'
   # - block: collection
   #   id: papers
   #   content:
@@ -82,35 +96,35 @@ sections:
   #   design:
   #     view: article-grid
   #     columns: 1
-#   - block: collection
-#     id: news
-#     content:
-#       title: Recent News
-#       subtitle: ''
-#       text: ''
-#       # Page type to display. E.g. post, talk, publication...
-#       page_type: post
-#       # Choose how many pages you would like to display (0 = all pages)
-#       count: 5
-#       # Filter on criteria
-#       filters:
-#         author: ""
-#         category: ""
-#         tag: ""
-#         exclude_featured: false
-#         exclude_future: false
-#         exclude_past: false
-#         publication_type: ""
-#       # Choose how many pages you would like to offset by
-#       offset: 0
-#       # Page order: descending (desc) or ascending (asc) date.
-#       order: desc
-#     design:
-#       # Choose a layout view
-#       view: date-title-summary
-#       # Reduce spacing
-#       spacing:
-#         padding: [0, 0, 0, 0]
+  # - block: collection
+  #   id: news
+  #   content:
+  #     title: Recent News
+  #     subtitle: ''
+  #     text: ''
+  #     # Page type to display. E.g. post, talk, publication...
+  #     page_type: post
+  #     # Choose how many pages you would like to display (0 = all pages)
+  #     count: 5
+  #     # Filter on criteria
+  #     filters:
+  #       author: ""
+  #       category: ""
+  #       tag: ""
+  #       exclude_featured: false
+  #       exclude_future: false
+  #       exclude_past: false
+  #       publication_type: ""
+  #     # Choose how many pages you would like to offset by
+  #     offset: 0
+  #     # Page order: descending (desc) or ascending (asc) date.
+  #     order: desc
+  #   design:
+  #     # Choose a layout view
+  #     view: date-title-summary
+  #     # Reduce spacing
+  #     spacing:
+  #       padding: [0, 0, 0, 0]
 #   - block: cta-card
 #     demo: true # Only display this section in the Hugo Blox Builder demo site
 #     content:
