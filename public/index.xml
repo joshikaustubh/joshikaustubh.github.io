@@ -34,6 +34,22 @@
     </item>
     
     <item>
+      <title>Media Coverage</title>
+      <link>http://localhost:1313/mediacoverage/</link>
+      <pubDate>Sat, 08 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mediacoverage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UMD Researchers Win Best Paper Award at IROS 2024</title>
+      <link>http://localhost:1313/mediacoverage/iros-best-paper-umd/</link>
+      <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mediacoverage/iros-best-paper-umd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Projects</title>
       <link>http://localhost:1313/projects/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
@@ -294,7 +310,7 @@
 
 
 
-&lt;div id=&#34;chart-251943678&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-769348251&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -312,7 +328,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-251943678&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-769348251&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -944,6 +960,22 @@ Parallel 4   :         des6, after des4, 1d
 &lt;/ul&gt;
 &lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Modi Briefed on UMD-led Aquaculture Research</title>
+      <link>http://localhost:1313/mediacoverage/modi-umd/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mediacoverage/modi-umd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pune Researcher’s Deep Sea Pearl-Finding Robot Impresses PM Modi during US Visit</title>
+      <link>http://localhost:1313/mediacoverage/modi-punekarnews/</link>
+      <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mediacoverage/modi-punekarnews/</guid>
+      <description></description>
     </item>
     
     <item>

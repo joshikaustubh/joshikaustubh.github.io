@@ -7,9 +7,9 @@ main:
   - name: Home
     url: /
     weight: 10
-  # - name: News
-  #   url: /news
-  #   weight: 13
+  - name: Media Coverage
+    url: /mediacoverage
+    weight: 13
   - name: Experience
     url: about/
     weight: 20
@@ -18,7 +18,7 @@ main:
     weight: 30
   # - name: Projects
   #   url: projects/
-  #   weight: 30
+  #   weight: 31
   # - name: Teaching
   #   url: teaching/
   #   weight: 40

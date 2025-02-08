@@ -50,17 +50,17 @@ interests:
   - AR/VR
 
 education:
-  - area: PhD Mechanical Engineering
+  - area: Ph.D., Mechanical Engineering
     institution: University of Maryland College Park
     date_start: 2022-01-15
     date_end: ''
     summary: |
-      Supervised by [Dr. Nikhil Chopra](https://terpconnect.umd.edu/~nchopra/Home.html). Expected to graduate in 2026.
+      Advised by [Dr. Nikhil Chopra](https://terpconnect.umd.edu/~nchopra/Home.html), [Semi-Autonomous Systems Lab](https://sites.google.com/umd.edu/saslab/home). Expected to graduate in 2026.
 
       Ongoing research on:
       - Nonlinear Observers for Robot Pose Estimation & Control
       - Imitation Learning-based Robot Navigation
-      - 3D Mapping and Reconstruction
+      - 3D Mapping and Reconstruction for Shallow Water Environments
 
     
   - area: B.Tech, Naval Architecture & Ocean Engineering
@@ -71,6 +71,7 @@ education:
       Minor in Automation
 
       Thesis: Seafloor Mapping \& Localization For A Multi-Robot System Using Route Optimization Algorithms
+
       Advisor: [Prof. T. Asokan](https://ed.iitm.ac.in/~asokan/), Department of Engineering Design, IIT Madras
     button:
       text: 'Read Thesis'
@@ -102,6 +103,19 @@ work:
     button:
       text: 'View GitHub'
       url: 'https://github.com/ENME480'
+  - position: Research Associate
+    company_name: Indian Institute of Science, Bangalore
+    company_url: ''
+    company_logo: ''
+    date_start: 2020-08-01
+    date_end: 2021-12-01
+    summary: |
+      Projects: 
+      - Vision-based Gestural Interaction for a Human Cooperative Multi-Robot System
+      - Audio-Visual Navigation for Collaborative Task Execution
+    # button:
+    #   text: 'View GitHub'
+    #   url: 'https://github.com/ENME480'
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
