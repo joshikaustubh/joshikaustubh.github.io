@@ -15,7 +15,7 @@ sections:
       text: I have been fornuate enough to have some of research covered in the media, newsletters and magazines.
       filters:
         folders:
-          - mediacoverage
+          - project
     design:
       view: article-grid
       fill_image: false

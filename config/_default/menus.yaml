@@ -8,7 +8,7 @@ main:
     url: /
     weight: 10
   - name: Media Coverage
-    url: /mediacoverage
+    url: /project
     weight: 13
   - name: Experience
     url: about/
