@@ -2334,3 +2334,25 @@ button,
     max-width: 60px;
   }
 }
+
+@media screen and (max-width: 736px) {
+  #banner {
+    flex-direction: column-reverse;
+    text-align: center;
+  }
+  /* Ensure both text and image span the full width of the banner */
+  #banner .content,
+  #banner .image {
+    width: 100%;
+    margin: 0;
+    padding: 0; /* Remove any padding if needed */
+  }
+  #banner .image {
+    margin-bottom: 1em; /* Optional: spacing between image and text */
+  }
+  #banner .image img {
+    width: 100%;   /* Make the image span the container's width */
+    height: auto;  /* Keep aspect ratio */
+    object-fit: contain; /* Or 'cover' if you prefer a different effect */
+  }
+}
